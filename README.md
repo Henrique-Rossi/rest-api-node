@@ -1,3 +1,5 @@
+## Nesse curso aprendi a unir a popularidade das APIs com a popularidade do JavaScript criando uma API completa com NodeJs, passando pelos principais pontos que  precisa conhecer para colocar seu projeto em produção.
+
 ### Conteúdo Programático
 - Instalação Node, NPM e VS Code  <br />
 - Criando um servidor Web <br />
