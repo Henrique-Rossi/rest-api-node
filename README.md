@@ -1,31 +1,31 @@
 ### Conteúdo Programático
--Instalação Node, NPM e VS Code
--Criando um servidor Web
--Normalizando a porta
--Gerenciando Erros do Servidor
--Iniciando o Debug
--Separando o Servidor
--Nodemon
--CRUD REST
--Rotas
--Controllers
--MongoDb Setup
--Mongooose
--Models
--Criando um Produto
-  --Listando os Produtos
-  --Listando um Produto pelo slug
-  --Listando um Produto pelo Id
-  --Listando os Produtos de uma tag
-  --Atualizando um produto
-  --Excluindo um produto
--Validações
--Repositórios
--Async/Await
--Revisitando os Models: Customer,Order,OrderItems
--Revisitando os Controllers: Customer,Order
--File Config
--Enviando E-mail de Boas Vindas com SendGrid
--Autenticação
--Autorização
+-Instalação Node, NPM e VS Code  <br />
+-Criando um servidor Web <br />
+-Normalizando a porta <br />
+-Gerenciando Erros do Servidor <br />
+-Iniciando o Debug <br />
+-Separando o Servidor <br />
+-Nodemon <br />
+-CRUD REST <br />
+-Rotas <br />
+-Controllers <br />
+-MongoDb Setup <br />
+-Mongooose <br />
+-Models <br />
+-Criando um Produto <br />
+  --Listando os Produtos <br />
+  --Listando um Produto pelo slug <br />
+  --Listando um Produto pelo Id <br />
+  --Listando os Produtos de uma tag <br />
+  --Atualizando um produto <br />
+  --Excluindo um produto <br />
+-Validações <br />
+-Repositórios <br />
+-Async/Await <br />
+-Revisitando os Models: Customer,Order,OrderItems <br />
+-Revisitando os Controllers: Customer,Order <br />
+-File Config <br />
+-Enviando E-mail de Boas Vindas com SendGrid <br />
+-Autenticação <br />
+-Autorização <br />
 -Habilitando CORS
