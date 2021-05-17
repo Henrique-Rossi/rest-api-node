@@ -1,0 +1,31 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "aprendendo sobre rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/server.js"
+  },
+  "keywords": [
+    "node",
+    "api"
+  ],
+  "author": "henrique rossi",
+  "license": "ISC",
+  "dependencies": {
+    "azure-storage": "^2.1.0",
+    "body-parser": "^1.19.0",
+    "debug": "^2.6.9",
+    "express": "^4.17.1",
+    "guid": "^0.0.12",
+    "http": "*",
+    "jsonwebtoken": "^7.4.0",
+    "md5": "^2.3.0",
+    "mongoose": "^5.12.9",
+    "sendgrid": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
